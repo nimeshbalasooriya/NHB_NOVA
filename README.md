@@ -1,2 +1,1 @@
-# NHB_NOVA
-Ai assistant 
+# app.js file uploaded soon, Cheers
